@@ -27,6 +27,7 @@
   "devDependencies": {
     "@types/bluebird": "^3.5.26",
     "@types/node": "^13.1.4",
-    "@types/xml2js": "^0.4.4"
+    "@types/xml2js": "^0.4.4",
+    "standard": "^14.3.4"
   }
 }
